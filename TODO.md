@@ -8,9 +8,10 @@ Config:
 | :---: | :---: | :---: |
 | Arena Data | Chest(If any), Player Datas, arena ID, game location, spectate location | 0% |
 | Lobby Data | Spawn Location | 0% |
+| Kits Data | Multiple classes of kits | 0% |
 
 
-Map Reseting:
+Map Reset:
 ------------
 
 How to make it work:  
@@ -22,3 +23,11 @@ Commands:
 ---------
 
 To be done soon!
+
+OVERALL PROGRESS:
+=================
+
+Config -> 0%
+Map Reset -> 0%
+Commands -> 0%
+Planning -> 50%
