@@ -18,4 +18,7 @@ How to make it work:
 ...2) When '/setMap reset' is called, log all players off the server
 ...3) Delete current map, copy and paste the backup with the same level name as the deleted one then load it again!
   
+Commands:
+---------
 
+To be done soon!
