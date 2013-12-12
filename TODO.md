@@ -6,7 +6,7 @@ Config:
 
 | Type Of Data | Contains | Percentage Finished |
 | :---: | :---: | :---: |
-| Arena Data | Chest(If any), Player Datas, arena ID, game location, spectate location | 0% |
+| Arena Data | Chest(If any), Player Datas, arena ID, game location, spectate location, Enabled/Disabled | 0% |
 | Lobby Data | Spawn Location | 0% |
 | Kits Data | Multiple classes of kits | 0% |
 
